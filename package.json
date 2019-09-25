@@ -1,0 +1,19 @@
+{
+  "name": "scrumtastic",
+  "version": "0.1.0",
+  "description": "Electron based sprint planning tool.",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karim7783/Scrumtastic.git"
+  },
+  "author": "Karim Ali",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/karim7783/Scrumtastic/issues"
+  },
+  "homepage": "https://github.com/karim7783/Scrumtastic#readme"
+}
