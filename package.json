@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/karim7783/Scrumtastic/issues"
   },
-  "homepage": "https://github.com/karim7783/Scrumtastic#readme"
+  "homepage": "https://github.com/karim7783/Scrumtastic#readme",
+  "dependencies": {
+    "electron": "^6.0.10"
+  }
 }
